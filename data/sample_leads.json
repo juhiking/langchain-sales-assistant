@@ -1,0 +1,24 @@
+﻿[
+  {
+    "id": "lead_001",
+    "company": "TechStartup Inc",
+    "contact_name": "John Smith",
+    "industry": "SaaS",
+    "company_size": "20-50 employees",
+    "current_tools": "Spreadsheets, basic CRM",
+    "pain_points": "Manual lead tracking, poor sales forecasting",
+    "budget": "-10000/month",
+    "decision_timeline": "Q4 2024"
+  },
+  {
+    "id": "lead_002",
+    "company": "Retail Solutions Co",
+    "contact_name": "Sarah Johnson",
+    "industry": "Retail",
+    "company_size": "100-200 employees",
+    "current_tools": "Legacy POS system",
+    "pain_points": "Inventory management, customer data fragmentation",
+    "budget": "+/month",
+    "decision_timeline": "Immediate"
+  }
+]
